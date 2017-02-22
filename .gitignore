@@ -68,3 +68,4 @@ typings/
 # End of https://www.gitignore.io/api/node,git
 
 babel_cache/
+src/static/js/bundle.js

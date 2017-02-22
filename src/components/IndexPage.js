@@ -23,8 +23,7 @@ export default class IndexPage extends React.Component {
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
         <div style={styles.container}>
-          <h1>Hair salon runs on COLAVO</h1>
-          <h2>Service Admin</h2>
+          <h1>Skeleton</h1>
         </div>
       </MuiThemeProvider>
     );
